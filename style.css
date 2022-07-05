@@ -1,4 +1,19 @@
 * {
-    background-image: url(img/fundo.jpg);
+    background: #110f0f url(img/fundo.jpg) no-repeat right top fixed;
     background-size: cover;
+}
+
+#fundo-rosa {
+    width: 250px;
+    height: 200px;
+}
+
+#foto-perfil {
+    width: 200px;
+    border-radius: 10%;
+}
+
+footer {
+    height: 20px;
+    background-color: blueviolet;
 }

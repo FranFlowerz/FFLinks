@@ -1,0 +1,2 @@
+Olá, me chamo Franciele e este projeto serve para treinar HTML e CSS sem nenhum tutorial. Utilizando o que aprendi e descobrindo mais coisas para aprender. 
+Irei clonar uma pagina de link unico feita por mim usando Canva

@@ -1,6 +1,7 @@
-* {
-    background: #110f0f url(img/fundo.jpg) no-repeat right top fixed;
-    background-size: cover;
+* {}
+
+body {
+    background-image: url(img/fundo.jpg);
 }
 
 #fundo-rosa {
@@ -16,4 +17,5 @@
 footer {
     height: 20px;
     background-color: blueviolet;
+    align-content: flex-end;
 }
